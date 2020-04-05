@@ -11,7 +11,7 @@
 | N/A       | performance    | template     | 04   | VLDB    | Oracle      |
 | N/A       | database       | stochastic   | 05   | VLDB    | Microsoft   |
 | N/A       | sql            | genetic      | 07   | VLDB    | Microsoft   |
-| RQP       | database       | constraints  | 07   | ICDE    | ETH Zurich  |
+| RQP       | functionality  | constraints  | 07   | ICDE    | ETH Zurich  |
 | QAGen     | database       | constraints  | 07   | SIGMOD  | ETH Zurich  |
 | ADUSA     | verification   | constraints  | 08   | ASE     | UT Austin   |
 | Qex       | database       | constraints  | 09   | LPAR    | Microsoft   |
@@ -23,3 +23,10 @@
 | N/A       | integrity      | mutation     | 15   | TOSEM   | Sheffield   |
 | EvoSQL    | sql            | search       | 18   | ICSE    | Delft       |
 | Apollo    | performance    | differantial | 19   | VLDB    | Geogia Tech |
+
+
+Necessary backgroud to understand the research:
+* DBMS structure
+* Query processing (non-deterministic)
+* Real-world requirement: data distribution, performance, correctness.
+* Automated testing: method, challenges, current approach
