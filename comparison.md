@@ -15,7 +15,7 @@
 | QAGen     | database       | constraints  | 07   | SIGMOD  | ETH Zurich  |
 | ADUSA     | verification   | constraints  | 08   | ASE     | UT Austin   |
 | Qex       | database       | constraints  | 09   | LPAR    | Microsoft   |
-| N/A       | sql/execution  | differantial | 09   | ICSE    | Microsoft   |
+| N/A       | sql/execution  | differantial | 09   | SIGMOD  | Microsoft   |
 | ??        | verification   | ??           | 10   | POPL    | Harvard     |
 | N/A       | predicate      | ??           | 10   | STVR    | Oviedo      |
 | CorrectDB | authentication | ??           | 13   | VLDB    | Stony Brook |
