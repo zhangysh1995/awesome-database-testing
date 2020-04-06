@@ -10,7 +10,7 @@
 | N/A       | sql            | ???          | 04   | SIGSOFT | Oviedo      |
 | N/A       | performance    | template     | 04   | VLDB    | Oracle      |
 | N/A       | database       | stochastic   | 05   | VLDB    | Microsoft   |
-| N/A       | sql            | genetic      | 07   | VLDB    | Microsoft   |
+| N/A       | sql/coverage   | genetic      | 07   | VLDB    | Microsoft   |
 | RQP       | functionality  | constraints  | 07   | ICDE    | ETH Zurich  |
 | QAGen     | database       | constraints  | 07   | SIGMOD  | ETH Zurich  |
 | ADUSA     | verification   | constraints  | 08   | ASE     | UT Austin   |
