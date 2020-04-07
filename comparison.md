@@ -1,6 +1,7 @@
 * database (generation)
 * sql (generation)
 * performance (testing)
+* differential (testing)
 * integrity (testing)
 * mutation (testing)
 
@@ -16,17 +17,17 @@
 | QAGen     | database           | constraints  | 07   | SIGMOD  | ETH Zurich  |
 | ADUSA     | verification       | constraints  | 08   | ASE     | UT Austin   |
 | Qex       | database           | constraints  | 09   | LPAR    | Microsoft   |
-| N/A       | sql/execution      | differantial | 09   | SIGMOD  | Microsoft   |
+| N/A       | sql/execution      | differential | 09   | SIGMOD  | Microsoft   |
 | ??        | verification       | ??           | 10   | POPL    | Harvard     |
 | N/A       | predicate/mutation | constraints  | 10   | STVR    | Oviedo      |
 | CorrectDB | authentication     | ??           | 13   | VLDB    | Stony Brook |
 | N/A       | database/mutation  | constraints  | 15   | VLDB    | IIT         |
 | N/A       | integrity          | mutation     | 15   | TOSEM   | Sheffield   |
 | EvoSQL    | sql                | search       | 18   | ICSE    | Delft       |
-| Apollo    | performance        | differantial | 19   | VLDB    | Geogia Tech |
+| Apollo    | performance        | differential | 19   | VLDB    | Geogia Tech |
 
 
-Necessary backgroud to understand the research:
+Necessary background to understand the research:
 * DBMS structure
 * Query processing (non-deterministic)
 * Real-world requirement: data distribution, performance, correctness.
