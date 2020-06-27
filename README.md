@@ -21,16 +21,27 @@ Here we put materials with general discussions.
 ### Others
 *  *What are the problems from the academic view*  [Is Query Optimization a “Solved” Problem?](https://wp.sigmod.org/?p=1075)
 
+## Input Generation
+
+### Research Papers
+*  *Query generation with template substitution*  [Generating Thousand Benchmark Queries in Seconds](http://linkinghub.elsevier.com/retrieve/pii/B9780120884698500917)
+*  *Language for customized data generator*  [Flexible Database Generators](https://www.csd.uoc.gr/~hy460/pdf/Flexible%20Database%20Generators.pdf)
+*  *RAGS Microsoft SQL Server*  [Massive Stochastic Testing of SQL](https://www.microsoft.com/en-us/research/publication/massive-stochastic-testing-of-sql/)
+*  *Generate data regarding the query constraints*  [QAGen: Generating Query-Aware Test Databases](http://portal.acm.org/citation.cfm?doid=1247480.1247520)
+
+### Tools
+*  Randgen [MySQL version](http://johnemb.blogspot.com/2013/02/get-to-know-random-query-generator.html), [MariaDB version](https://github.com/MariaDB/randgen), [PingCAP version](https://github.com/pingcap/go-randgen) 
+*  [Sysbench](https://dev.mysql.com/downloads/benchmarks.html)
+*  [SQLsmith](https://github.com/anse1/sqlsmith)
+
+
 ## Engine Correctness
 Here we mainly refer to the case where the engine returns wrong query result.
 
 ### Research Papers
 
 #### What You Relly Want to Know About
-*  *Query generation with template substitution*  [Generating Thousand Benchmark Queries in Seconds](http://linkinghub.elsevier.com/retrieve/pii/B9780120884698500917)
-*  *Language for customized data generator*  [Flexible Database Generators](https://www.csd.uoc.gr/~hy460/pdf/Flexible%20Database%20Generators.pdf)
-*  *RAGS Microsoft SQL Server*  [Massive Stochastic Testing of SQL](https://www.microsoft.com/en-us/research/publication/massive-stochastic-testing-of-sql/)
-*  *Generate data regarding the query constraints*  [QAGen: Generating Query-Aware Test Databases](http://portal.acm.org/citation.cfm?doid=1247480.1247520)
+*  *RAGS with system-differential testing*  [Massive Stochastic Testing of SQL](https://www.microsoft.com/en-us/research/publication/massive-stochastic-testing-of-sql/)
 *  *Data generation with contraints sovling*  [Query-Aware Test Generation Using a Relational Constraint Solver](http://ieeexplore.ieee.org/document/4639327/)
 *  *Criteria on integrtity testing*  [The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints](http://dl.acm.org/citation.cfm?doid=2852270.2818639)
 
