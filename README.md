@@ -1,9 +1,25 @@
 # Awesome-Database-Testing
-This is a curitated list of resources on database testing. 
+This is a curitated list of resources on *database testing. 
 
-What covered: papers, blogs, notes, tools and etc. for whoever wants to test a database mangement system (DBMS). 
+**What covered: papers**, blogs, notes, tools and etc. for whoever wants to test a database mangement system (DBMS). 
 
-What is not: using SQLs, learning database basic knowledge, implementing a database system.
+**What is not**: using SQLs, learning database basic knowledge, implementing a database system.
+
+**Note**: this is NOT an exhaustive list of materials, you may want to find more accroding to references of each item.
+
+## High-level Views
+Here we put materials with general discussions.
+
+### Research Papers
+**NOTE:** We only incldue peer-reviewed and pulished papers here, the same applies to other entries.
+
+*  *Understand the query optimization*  [An Overview of Query Optimization](http://lib.gen.in/next/MTAuMTE0NS8yNzU0ODcuMjc1NDky/chaudhuri1998.pdf)
+*  *What are the problems from the indutrial view*  [Testing SQL Server's Query Optimizer : Challenges , Techniques and Experiences](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.143.3767)
+
+*  *Optimizer Evaluation*  [How good are query optimizers, really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
+
+### Others
+*  *What are the problems from the academic view*  [Is Query Optimization a “Solved” Problem?](https://wp.sigmod.org/?p=1075)
 
 ## Engine Correctness
 Here we mainly refer to the case where the engine returns wrong query result.
@@ -11,12 +27,27 @@ Here we mainly refer to the case where the engine returns wrong query result.
 ### Research Papers
 
 #### What You Relly Want to Know About
+*  *Query generation with template substitution*  [Generating Thousand Benchmark Queries in Seconds](http://linkinghub.elsevier.com/retrieve/pii/B9780120884698500917)
+*  *Language for customized data generator*  [Flexible Database Generators](https://www.csd.uoc.gr/~hy460/pdf/Flexible%20Database%20Generators.pdf)
+*  *RAGS Microsoft SQL Server*  [Massive Stochastic Testing of SQL](https://www.microsoft.com/en-us/research/publication/massive-stochastic-testing-of-sql/)
+*  *Generate data regarding the query constraints*  [QAGen: Generating Query-Aware Test Databases](http://portal.acm.org/citation.cfm?doid=1247480.1247520)
+*  *Data generation with contraints sovling*  [Query-Aware Test Generation Using a Relational Constraint Solver](http://ieeexplore.ieee.org/document/4639327/)
+*  *Criteria on integrtity testing*  [The Effectiveness of Test Coverage Criteria for Relational Database Schema Integrity Constraints](http://dl.acm.org/citation.cfm?doid=2852270.2818639)
+
 
 #### What You Want to Know About
+* *Parallelism on the old machines*  [Quickly generating billion-record synthetic databases](http://portal.acm.org/citation.cfm?doid=191843.191886)
+* *Verified database system*  [Toward a Verified Relational Database Management System](http://portal.acm.org/citation.cfm?doid=1706299.1706329)
+
 
 #### What's New
+*  [Search-based test data generation for SQL queries](http://dl.acm.org/citation.cfm?doid=3180155.3180202) [2018]
+*  [Detecting Optimization Bugs in Database Engines via Non-Optimizing Reference Engine Construction](https://www.manuelrigger.at/preprints/NoREC.pdf
+) [2020]
+*  [Testing query execution engines with mutations](https://dl.acm.org/doi/10.1145/3395032.3395322) [2020]
 
 ### Tools
+?
 
 ## Performance
 Here we focus on detecting and debugging performance issues.
