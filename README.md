@@ -13,7 +13,7 @@ Here we put materials with general discussions.
 ### Research Papers
 **NOTE:** We only incldue peer-reviewed and pulished papers here, the same applies to other entries.
 
-*  *Understand the query optimization*  [An Overview of Query Optimization](http://lib.gen.in/next/MTAuMTE0NS8yNzU0ODcuMjc1NDky/chaudhuri1998.pdf)
+*  *Understand the query optimization*  [An Overview of Query Optimization](https://www2.cs.duke.edu/courses/fall19/compsci516/Papers/chaudhuri98.pdf)
 *  *What are the problems from the indutrial view*  [Testing SQL Server's Query Optimizer : Challenges , Techniques and Experiences](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.143.3767)
 
 *  *Optimizer Evaluation*  [How good are query optimizers, really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
