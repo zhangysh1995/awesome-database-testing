@@ -14,7 +14,8 @@ Here we put materials with general discussions.
 ### Research Papers
 **NOTE:** We only incldue peer-reviewed and pulished papers here, the same applies to other entries. You may want to find the authors' *free-version* of the papers on their personal page.
 
-*  *Understanding the query optimization*  [An Overview of Query Optimization](https://www2.cs.duke.edu/courses/fall19/compsci516/Papers/chaudhuri98.pdf)
+*  *Understanding the query optimization*  [Query Optimization in Database Systems](https://dl.acm.org/doi/10.1145/356924.356928) [1984]
+*  *Understanding the query optimization - a more recent view*  [An Overview of Query Optimization](https://www2.cs.duke.edu/courses/fall19/compsci516/Papers/chaudhuri98.pdf) [1998]
 *  *What are the problems from the indutrial view*  [Testing SQL Server's Query Optimizer : Challenges , Techniques and Experiences](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.143.3767)
 
 *  *Optimizer Evaluation*  [How good are query optimizers, really?](https://www.vldb.org/pvldb/vol9/p204-leis.pdf)
@@ -86,7 +87,7 @@ Here we focus on detecting and debugging performance issues.
 *  *Generate and compare the plans*  [Testing the accuracy of query optimizers](http://dl.acm.org/citation.cfm?doid=2304510.2304525)
 
 #### What's New
-*  [APOLLO: Automatic Detection and Diagnosis of Performance Regressions in Database Systems](https://dl.acm.org/doi/10.14778/3357377.3357382)
+*  [APOLLO: Automatic Detection and Diagnosis of Performance Regressions in Database Systems](https://dl.acm.org/doi/10.14778/3357377.3357382) [2020]
 
 ### Tools
 *  [TPC Benchmarking](http://www.tpc.org/)
