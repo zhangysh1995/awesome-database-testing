@@ -36,9 +36,10 @@ Here we put materials with general discussions.
 *  *Data generation as a search problem*  [Search-based test data generation for SQL queries](http://dl.acm.org/citation.cfm?doid=3180155.3180202)
 
 ### Tools
-*  Randgen [MySQL version](http://johnemb.blogspot.com/2013/02/get-to-know-random-query-generator.html), [MariaDB version](https://github.com/MariaDB/randgen), [PingCAP version](https://github.com/pingcap/go-randgen) 
-*  [Sysbench](https://dev.mysql.com/downloads/benchmarks.html)
-*  [SQLsmith](https://github.com/anse1/sqlsmith)
+*  Randgen [MySQL version (not maintained)](https://launchpad.net/randgen) [doc](https://github.com/RQG/RQG-Documentation/wiki/), [MariaDB version](https://github.com/MariaDB/randgen), [PingCAP version](https://github.com/pingcap/go-randgen) 
+*  [pquery](https://github.com/Percona-QA/pquery) - stress testing MySQL
+*  [Sysbench](https://dev.mysql.com/downloads/benchmarks.html) - MySQL benchmarks
+*  [SQLsmith](https://github.com/anse1/sqlsmith) - fuzzing style tool
 
 
 
