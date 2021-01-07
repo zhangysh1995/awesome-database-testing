@@ -48,7 +48,7 @@ Here we mainly refer to the case where the engine returns wrong query result.
 
 ### Research Papers
 
-#### What You Relly Want to Know About
+#### What You Really Want to Know About
 *  *RAGS with system-differential testing*  [Massive Stochastic Testing of SQL](https://www.microsoft.com/en-us/research/publication/massive-stochastic-testing-of-sql/)
 *  *Data generation with contraints sovling*  [Query-Aware Test Generation Using a Relational Constraint Solver](http://ieeexplore.ieee.org/document/4639327/)
 *  *Differential testing for the optimizing rules*  [A framework for testing query transformation rules](http://portal.acm.org/citation.cfm?doid=1559845.1559874)
