@@ -78,7 +78,7 @@ Here we focus on detecting and debugging performance issues.
 
 ### Research Papers
 
-#### What You Relly Want to Know About
+#### What You Really Want to Know About
 *  *Very first system*  [Efficient testing of high performance transaction processing systems](http://www.vldb.org/conf/1997/P595.PDF)
 *  *Is the exact estimation possible*  [Exact Cardinality Query Optimization for Optimizer Testing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.151.6265)
 *  *How to identify issues on plan generation*  [On the stability of plan costs and the costs of plan stability](http://dl.acm.org/doi/10.14778/1920841.1920983)
