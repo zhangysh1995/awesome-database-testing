@@ -58,7 +58,7 @@ Here we mainly refer to the case where the engine returns wrong query result.
 #### What You Want to Know About
 *  *Parallelism on the old machines*  [Quickly generating billion-record synthetic databases](http://portal.acm.org/citation.cfm?doid=191843.191886)
 *  *Verified database system*  [Toward a Verified Relational Database Management System](http://portal.acm.org/citation.cfm?doid=1706299.1706329)
-*  *Reply the transactions*  [Debugging transactions and tracking their provenance with reenactment]()
+*  *Reply the transactions*  [Debugging transactions and tracking their provenance with reenactment](http://www.vldb.org/pvldb/vol10/p1857-niu.pdf)
 
 #### What's New
 *  [Search-based test data generation for SQL queries](http://dl.acm.org/citation.cfm?doid=3180155.3180202) [2018]
