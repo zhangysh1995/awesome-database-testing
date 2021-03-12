@@ -12,7 +12,7 @@ This is a curitated list of resources on *database testing*.
 Here we put materials with general discussions.
 
 ### Research Papers
-**NOTE:** We only incldue peer-reviewed and pulished papers here, the same applies to other entries. You may want to find the authors' *free-version* of the papers on their personal page.
+**NOTE:** We only include peer-reviewed and published papers here, the same also applies to other entries. You may want to find the authors' *free-version* of the papers on their personal page.
 
 *  *Understanding the query optimization*  [Query Optimization in Database Systems](https://dl.acm.org/doi/10.1145/356924.356928) [1984]
 *  *Understanding the query optimization - a more recent view*  [An Overview of Query Optimization](https://www2.cs.duke.edu/courses/fall19/compsci516/Papers/chaudhuri98.pdf) [1998]
