@@ -107,9 +107,15 @@ We list idea and tools which are adopted in the industry.
 
 
 ## Contributors
-[zhangysh1995](https://github.com/zhangysh1995)
-[mkx22](https://github.com/mkx22)
+*  [zhangysh1995](https://github.com/zhangysh1995)
+*  [mkx22](https://github.com/mkx22)
 
-# Contributions Are Super Welcome!
+# Contributions are Super Welcome!
+What you can contribute:
+*  papers (only peer-reviewed papers will be accepted to this repo)
+*  talks/slides/articles
+*  tools
+
+Please also add yourself to *Contributors* in the PR.
 
 
