@@ -34,12 +34,14 @@ Here we put materials with general discussions.
 *  *Generate data regarding the query constraints*  [QAGen: Generating Query-Aware Test Databases](http://portal.acm.org/citation.cfm?doid=1247480.1247520)
 *  *How could symbolic execution help*  [Qex: Symbolic SQL Query Explorer](http://link.springer.com/10.1007/978-3-642-17511-4_24)
 *  *Data generation as a search problem*  [Search-based test data generation for SQL queries](http://dl.acm.org/citation.cfm?doid=3180155.3180202)
+*  *For more valid inputs!* [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback](https://arxiv.org/abs/2006.02398) [**CCS 2021**]
 
 ### Tools
 *  Randgen [MySQL version (not maintained)](https://launchpad.net/randgen) [doc](https://github.com/RQG/RQG-Documentation/wiki/), [MariaDB version](https://github.com/MariaDB/randgen), [PingCAP version](https://github.com/pingcap/go-randgen) 
 *  [pquery](https://github.com/Percona-QA/pquery) - stress testing MySQL
 *  [Sysbench](https://dev.mysql.com/downloads/benchmarks.html) - MySQL benchmarks
 *  [SQLsmith](https://github.com/anse1/sqlsmith) - fuzzing style tool
+*  [Squirrel](https://github.com/s3team/Squirrel) - tool for CCS 2021 paper
 
 
 
@@ -95,6 +97,13 @@ Here we focus on detecting and debugging performance issues.
 *  [APOLLO](https://github.com/sslab-gatech/apollo)@gatech
 
 
+## Industry Practice
+We list idea and tools which are adopted in the industry.
+
+### Tools
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) from PingCAP
+  *  Article: [Building an Automated Testing Framework Based on Chaos Mesh® and Argo](https://pingcap.com/blog/building-automated-testing-framework-based-on-chaos-mesh-and-argo)
+  *  Talk: [Testing TiDB Using Chaos Mesh® with TiPocket](https://www.youtube.com/watch?v=60uCsnwNdU0)
 
 
 ## Contributors
