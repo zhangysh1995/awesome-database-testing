@@ -34,7 +34,7 @@ Here we put materials with general discussions.
 *  *Generate data regarding the query constraints*  [QAGen: Generating Query-Aware Test Databases](http://portal.acm.org/citation.cfm?doid=1247480.1247520)
 *  *How could symbolic execution help*  [Qex: Symbolic SQL Query Explorer](http://link.springer.com/10.1007/978-3-642-17511-4_24)
 *  *Data generation as a search problem*  [Search-based test data generation for SQL queries](http://dl.acm.org/citation.cfm?doid=3180155.3180202)
-*  *For more valid inputs!* [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback](https://arxiv.org/abs/2006.02398) [**CCS 2021**]
+*  *For more valid inputs!* [SQUIRREL: Testing Database Management Systems with Language Validity and Coverage Feedback](https://arxiv.org/abs/2006.02398) [CCS 2021]
 
 ### Tools
 *  Randgen [MySQL version (not maintained)](https://launchpad.net/randgen) [doc](https://github.com/RQG/RQG-Documentation/wiki/), [MariaDB version](https://github.com/MariaDB/randgen), [PingCAP version](https://github.com/pingcap/go-randgen) 
@@ -42,6 +42,7 @@ Here we put materials with general discussions.
 *  [Sysbench](https://dev.mysql.com/downloads/benchmarks.html) - MySQL benchmarks
 *  [SQLsmith](https://github.com/anse1/sqlsmith) - fuzzing style tool
 *  [Squirrel](https://github.com/s3team/Squirrel) - tool for CCS 2021 paper
+*  [mtr_to_sql.sh](https://github.com/Percona-QA/percona-qa/blob/master/mtr_to_sql.sh)@Percona-QA - a script to extract [mysql-test](https://dev.mysql.com/doc/dev/mysql-server/latest/PAGE_MYSQL_TEST_RUN.html) cases as a sql file, with engine replacement and shuffles according to your need
 
 
 
@@ -72,6 +73,7 @@ Here we mainly refer to the case where the engine returns wrong query result.
 ### Tools
 *  [SQLancer](https://github.com/sqlancer/sqlancer)@ETH_ZURICH
 *  [go-sqlancer](https://github.com/chaos-mesh/go-sqlancer)@PingCAP
+*  [pquery](https://github.com/Percona-QA/pquery)@Percona-QA - a tool providing the ability to combine correctness and crash recovery testing on both single-node and clustered instances
 
 
 
