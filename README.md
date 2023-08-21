@@ -1,5 +1,7 @@
+ To view as a website, see: http://zhangyushao.site/awesome-database-testing/.
+ 
 # Awesome-Database-Testing
-This is a curitated list of resources on *database testing*. 
+This is a curitated list of resources on *database testing*.
 
 **What covered: papers**, blogs, notes, tools and etc. for whoever wants to test a database mangement system (DBMS). 
 
